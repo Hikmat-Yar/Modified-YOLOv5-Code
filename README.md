@@ -1,12 +1,9 @@
-# Modified-YOLOv5-Code.
 ## A modified YOLOv5 architecture for efficient fire detection in smart cities
-
-
-### 2 Datasets
+###  Datasets
 The datasets can be downloaded from the giving link. 
-Link: [Click here](https://drive.google.com/file/d/1eyHoXvpuuiuy7O4vLgKGvLD7LZSw8Lki/view?usp=sharing)
+[Link](https://drive.google.com/file/d/1eyHoXvpuuiuy7O4vLgKGvLD7LZSw8Lki/view?usp=sharing)
 
-## 3. Citation and Acknowledgements
+## Citation and Acknowledgements
 Please read and cite our following papers on Fire Detection if you like our work:
 
 <pre>
