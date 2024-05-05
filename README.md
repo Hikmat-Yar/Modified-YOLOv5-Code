@@ -15,6 +15,5 @@ Please read and cite our following papers on Fire Detection if you like our work
   pages={120465},
   year={2023},
   publisher={Elsevier}
-}
 }</code>
 </pre>
