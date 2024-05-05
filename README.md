@@ -5,7 +5,6 @@ The datasets can be downloaded from the giving link.
 
 ## Citation and Acknowledgements
 Please read and cite our following papers on Fire Detection if you like our work:
-
 <pre>
 <code>
 @article{yar2023modified,
