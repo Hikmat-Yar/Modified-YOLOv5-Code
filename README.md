@@ -3,7 +3,7 @@
 The datasets can be found [here](https://drive.google.com/file/d/11Y2_VdI6WDYs3KD0v5i8o4EcotuvZaWL/view?usp=sharing)
 
 ## Citation and Acknowledgements
-Please read and cite our following papers on Fire Detection if you like our work:
+Please read and cite our following paper on Fire Detection if you like our work:
 <pre>
 <code>
 @article{yar2023modified,
