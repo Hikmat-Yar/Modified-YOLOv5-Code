@@ -19,4 +19,4 @@ Please read and cite our following paper on Fire Detection if you like our work:
 
 
 ## Contact
-I would be happy to guide and assist in case of any questions and I am open to research discussions and collaboration in Fire Detection domain. Ping me at hikmatyar3797 [at] [gmail] [.com]
+I would be happy to guide and assist in case of any questions and I am open to research discussions and collaboration in Fire Detection domain. Ping me at hikmatyar3797@gmail.com
